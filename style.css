@@ -1,0 +1,9 @@
+body {
+    background-image: url('IMAGES/vector-fondo-matematico-geometrico-degradado-azul-educacion-remix_53876-114100.avif');
+    background-size: cover; /* Esto asegura que la imagen cubra todo el fondo */
+    background-repeat: no-repeat; /* Para que la imagen no se repita */
+    color: aquamarine;
+    font-size: 30px;
+}
+h1{background-color: blue;
+color: aquamarine;}
